@@ -70,7 +70,7 @@ int main() {
 
     printf("\n"); //Espaçamento entre linhas para melhor visualização
 
-//Imprimindo os dados de ambas as cartas
+//Exibindo os dados de ambas as cartas
     printf("CARTA 01\n");
     printf("Estado: %c\n", estado1);
     printf("Código: %s\n", cod_carta1);
@@ -92,4 +92,5 @@ int main() {
     printf("Número de pontos turísticos: %i\n", pontos_turisticos2);
 
     return 0;
+    
 }
